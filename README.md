@@ -12,7 +12,7 @@ Key Questions Analyzed
 5. What is the distribution of marital status (married/single/divorced) across different education levels?
 6. how many Marital_statuts have housing
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. How many married individuals are unemployed?
 We analyzed the employment status of married individuals, specifically identifying those with an 'unknown' job type. A pie chart was created to illustrate the proportion of unemployed individuals within the married population."
